@@ -1,1 +1,1 @@
-Contributing docs/
+Contributing docs/ /
